@@ -1,0 +1,39 @@
+.logo {background-color: #E5E5E5;}
+main {
+    max-width: 1041px;
+    margin: 50px auto; 
+    text-align: left;}
+
+h1, h2 { background-color: #C4C4C4;
+    Color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+     font-style: normal;
+    font-weight: 700;
+    }
+h1 { font-size: 35px;
+    line-height: 29,64px;
+}
+h2 {text-align: left;
+        font-size: 20px;
+    line-height: 16,94px;
+}
+.datos {font-style: italic;
+    font-size: 15px;
+    line-height: 12.7px;
+    font-weight: bold;
+
+}
+footer {text-align: center;
+    background-color:#005677;
+  color: #FFFFFF;
+  font-family:'Times New Roman', Times, serif;
+  font-style: normal;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 16,94px;
+}
+.prof {font-style: normal;
+    font-size: 15px;
+    line-height: 12.7px;
+    font-weight: bold;
+}

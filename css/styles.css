@@ -1,0 +1,39 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+    margin: 0;
+}
+
+body > *{
+    padding: 20px;
+}
+
+header, footer{
+    background: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+    text-align: center;
+}
+
+main ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+main ul li{
+    background-color: #ffd1ff;
+    border: 2px solid #ffd1ff;
+    text-align: center;
+    margin: 10px;
+}
+main ul li a{
+    padding: 50px;
+    text-decoration: none;
+    color: black;
+    display: block;
+    font-weight: bold;
+}
+
+
+
